@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity {
     String provider;
     Location location;
     double lat, lng;
-    //USPEOOOOO!!!!!
+
+    //Saobracajni fakultet
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
