@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String PATH_4 = "%3A%2F%2Fdatatables.org%2Falltableswithkeys";
 
     private static final int MY_PERMISSION = 0;
+
     TextView tempWeather,placeWeather,dateUpdate,descWeather,temp_min,temp_max,country;
     ImageView image;
 
@@ -59,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
     String provider;
     Location location;
     double lat, lng;
-
+    //Darko Grujic
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
