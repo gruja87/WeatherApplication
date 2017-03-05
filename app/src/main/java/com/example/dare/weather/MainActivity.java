@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
     double lat, lng;
     int counter;
     //Darko Grujic
-    //Saobracajni fakultet
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
